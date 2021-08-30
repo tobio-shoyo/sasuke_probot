@@ -30,6 +30,7 @@
 <a href="https://github.com/AuraMoon553/sasuke_probot/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AuraMoon553/sasuke_probot)
 
 
 Sasuke Uchiha is the best solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
